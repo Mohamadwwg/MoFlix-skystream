@@ -1,10 +1,11 @@
 {
   "packageName": "com.mohamad.moflix",
   "name": "Moflix",
-  "version": 1,
-  "baseUrl": "https://moflix.win",
+  "version": "1.0.0",
+  "baseUrl": "https://moflix-stream.xyz",
   "description": "Moflix Provider für SkyStream",
   "authors": ["Mohamadwwg"],
   "languages": ["de"],
-  "categories": ["Movies", "TvSeries"]
+  "categories": ["Movies", "TvSeries"],
+  "script": "https://raw.githubusercontent.com/Mohamadwwg/MoFlix-skystream/main/MoFlix/.build/plugin.bundled.js"
 }
