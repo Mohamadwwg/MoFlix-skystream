@@ -1,8 +1,8 @@
-[
-  {
-    "id": "moflix",
-    "name": "MoFlix",
-    "version": "1.0.0",
-    "manifest": "https://raw.githubusercontent.com/Mohamadwwg/MoFlix-skystream/main/MoFlix/plugin.json"
-  }
-]
+{
+  "name": "MoFlix Repository",
+  "description": "MoFlix Provider Repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Mohamadwwg/MoFlix-skystream/main/MoFlix/plugin.json"
+  ]
+}
