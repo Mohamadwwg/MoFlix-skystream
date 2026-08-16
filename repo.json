@@ -1,6 +1,6 @@
 {
   "name": "MoFlix Repository",
-  "packageName": "com.mohamad.moflix.repo",
+  "packageName": "com.mohamad.moflix",
   "description": "MoFlix Provider für SkyStream",
   "manifestVersion": 1,
   "pluginLists": [
