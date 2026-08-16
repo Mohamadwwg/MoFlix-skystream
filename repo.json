@@ -1,7 +1,7 @@
 {
   "name": "Mohamad SkyStream Repo",
-  "packageName": "com.mohamad.hdfilme.repo",
-  "description": "HDFilme Provider für SkyStream",
+  "packageName": "com.mohamad.moflix.repo",
+  "description": "MoFlix Provider für SkyStream",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/Mohamadwwg/HDFilme-skystream/main/dist/plugins.json"
