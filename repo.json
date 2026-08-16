@@ -1,8 +1,9 @@
 {
   "name": "MoFlix Repository",
-  "description": "MoFlix Provider Repository",
+  "packageName": "com.mohamad.moflix.repo",
+  "description": "MoFlix Provider für SkyStream",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Mohamadwwg/MoFlix-skystream/main/MoFlix/plugin.json"
+    "https://raw.githubusercontent.com/Mohamadwwg/MoFlix-skystream/main/MoFlix/plugin.json?v=10"
   ]
 }
