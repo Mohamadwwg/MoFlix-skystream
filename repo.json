@@ -4,6 +4,6 @@
   "description": "MoFlix Provider für SkyStream",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Mohamadwwg/HDFilme-skystream/main/dist/plugins.json"
+    "https://raw.githubusercontent.com/Mohamadwwg/HDFilme-skystream/main/dist/plugin.json"
   ]
 }
