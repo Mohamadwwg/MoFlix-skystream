@@ -4,6 +4,6 @@
   "description": "MoFlix Provider für SkyStream",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Mohamadwwg/MoFlix-skystream/main/MoFlix/plugin.json?v=10"
+    "https://raw.githubusercontent.com/Mohamadwwg/MoFlix-skystream/main/MoFlix/plugin.json"
   ]
 }

@@ -15,6 +15,6 @@
       "Movies",
       "TvSeries"
     ],
-    "script": "https://raw.githubusercontent.com/Mohamadwwg/MoFlix-skystream/main/MoFlix/.build/plugin.bundled.js?v=10"
+    "script": "https://raw.githubusercontent.com/Mohamadwwg/MoFlix-skystream/main/MoFlix/plugin.js"
   }
 ]
